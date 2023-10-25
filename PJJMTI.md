@@ -8,6 +8,9 @@ Maintenance by @TShibuya-Creator
   * [Scimagjor](www.scimagojr.com)
   * [SINTA](https://sinta.kemdikbud.go.id/)
   * [Scopus](www.scopus.com)
+ 
+ * Journal Piracy
+  * [Sci-Hub](https://sci-hub.se/)
 
 * Flowchart
   * [Lucid.app](https://lucid.app/)
