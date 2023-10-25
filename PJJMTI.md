@@ -1,7 +1,1 @@
-echo "# PJJMTI-Repo-Unofficial" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/TShibuya-creator/PJJMTI-Repo-Unofficial.git
-git push -u origin main
+# PJJMTI-Repo-Unofficial
