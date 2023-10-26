@@ -34,3 +34,7 @@ Maintenance by @TShibuya-Creator
 * By Lecturer
   * Andi Sunyoto, M.Kom., Dr.
     * [Big Data](https://github.com/asetya/BigData)
+   
+* By My Partner
+  * Irsyad Syarifuddin, S.Kom
+    * [Digitalent Repository](https://drive.google.com/drive/folders/1xMjTaRB6gtdlQlsUYFqaEDuZfFRItQOY)
