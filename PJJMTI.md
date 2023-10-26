@@ -23,7 +23,7 @@ Maintenance by @TShibuya-Creator
 
 ---
 ## Software & Applications
-* Publish & Perish
+* Publish & Perish Paper Finder
   * [Windows](https://harzing.com/download/PoP8Setup.exe)
   * [Linux Tutorial](https://harzing.com/resources/publish-or-perish/linux)
   * [Mac OS](https://harzing.com/download/PoP8Mac.pkg)
