@@ -1,6 +1,6 @@
 # PJJMTI-Repo-Unofficial
 Maintenance by @TShibuya-Creator\
-Listed as Gisele's Nectar 1
+Listed as Gisele's_Nectar1
 
 ---
 ## Website
