@@ -32,7 +32,12 @@ Listed as Gisele's_Nectar1
   * [Kaggle](https://www.kaggle.com/)
   * [IEEE Dataport](https://ieee-dataport.org/)
   * [UCI Machine Learning](https://archive.ics.uci.edu/)
+  * [BPS](https://www.bps.go.id/)
 
+* AI Tools
+  * [ChatGPT](https://chat.openai.com/)
+  * [ChatPDF](https://www.chatpdf.com/)
+  * [ChatDOC](https://chatdoc.com/)
 
 ---
 ## Software & Applications
