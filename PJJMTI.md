@@ -34,10 +34,11 @@ Listed as Gisele's_Nectar1
   * [UCI Machine Learning](https://archive.ics.uci.edu/)
   * [BPS](https://www.bps.go.id/)
 
-* AI Tools
+* AI Tools (Generative)
   * [ChatGPT](https://chat.openai.com/)
   * [ChatPDF](https://www.chatpdf.com/)
   * [ChatDOC](https://chatdoc.com/)
+  * [Sharly AI](https://app.sharly.ai/)
 
 ---
 ## Software & Applications
