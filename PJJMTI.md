@@ -16,7 +16,7 @@ Listed as Gisele's_Nectar1
   * [Google Scholar](https://scholar.google.com/)
 
  * Journal Translator
-  * [DeepL](https://www.deepl.com/en/translator)
+   * [DeepL](https://www.deepl.com/en/translator)
 
  * Research/Journal Relation
    * [Connected Paper](https://www.connectedpapers.com/)
