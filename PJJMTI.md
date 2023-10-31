@@ -37,11 +37,17 @@ Listed as Gisele's_Nectar1
   * [UCI Machine Learning](https://archive.ics.uci.edu/)
   * [BPS](https://www.bps.go.id/)
 
+ * Plagiarism Checker
+   * [Turnitin](www.turnitin.com)
+
 * AI Tools (Generative)
   * [ChatGPT](https://chat.openai.com/)
+  * [Blackbox.ai](https://www.blackbox.chat/)
   * [ChatPDF](https://www.chatpdf.com/)
   * [ChatDOC](https://chatdoc.com/)
   * [Sharly AI](https://app.sharly.ai/)
+
+ * [Jasa Pembuatan Literature Review](https://fastwork.id/user/gumilangna/typing-99196731)
 
 ---
 ## Software & Applications
