@@ -4,16 +4,19 @@ Listed as Gisele's_Nectar1
 
 ---
 ## Website
-* Journal Rank
+* Journal
   * [Scimagjor](www.scimagojr.com)
-  * [SINTA](https://sinta.kemdikbud.go.id/)
+  * [SINTA](https://sinta.kemdikbud.go.id)
   * [Scopus](www.scopus.com)
-  * [Science Direct](https://www.sciencedirect.com/)
-  * [Research Gate](https://www.researchgate.net/)
-  * [Garuda](https://garuda.kemdikbud.go.id/)
+  * [Science Direct](https://www.sciencedirect.com)
+  * [Research Gate](https://www.researchgate.net)
+  * [Garuda](https://garuda.kemdikbud.go.id/journal)
   * [Elsevier](https://www.elsevier.com/en-xs)
   * [IEEE](https://www.ieee.org/)
   * [Google Scholar](https://scholar.google.com/)
+
+ * Journal Translator
+  * [DeepL](https://www.deepl.com/en/translator)
 
  * Research/Journal Relation
    * [Connected Paper](https://www.connectedpapers.com/)
