@@ -77,7 +77,7 @@ Listed as Gisele's_Nectar1
   * [Repo Jupyter Nb](https://drive.google.com/drive/folders/1HmZxdOMkZwXPYo9DOLBQBqT5PZsHQ2MM?usp=drive_link)
  
 * Harvest Twitter Crawling
-  * [TweetHarvest](https://helmisatria.com/blog/crawl-data-twitter-menggunakan-tweet-harvest/)
+  * [Tweet Harvest 18 Oct 2023](https://helmisatria.com/blog/cara-mendapatkan-data-twitter-yang-besar/)
 
 * Youtube Scraping
   * [Youtube Scraper](https://fariqi.my.id/blog/2023/10/22/tutorial-youtube-api-v3-menggunakan-python-dan-google-colab/)
