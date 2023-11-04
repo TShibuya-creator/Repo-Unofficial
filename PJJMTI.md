@@ -43,6 +43,7 @@ Listed as Gisele's_Nectar1
 * AI Tools (Generative)
   * [ChatGPT](https://chat.openai.com/)
   * [Blackbox.ai](https://www.blackbox.chat/)
+  * [Humata.ai](https://www.humata.ai/)
   * [ChatPDF](https://www.chatpdf.com/)
   * [ChatDOC](https://chatdoc.com/)
   * [Sharly AI](https://app.sharly.ai/)
