@@ -91,3 +91,6 @@ Listed as Gisele's_Nectar1
 * Youtube Scraping
   * [Youtube Scraper](https://fariqi.my.id/blog/2023/10/22/tutorial-youtube-api-v3-menggunakan-python-dan-google-colab/)
  
+
+
+![Tipe Algoritma](?https://pbs.twimg.com/media/Fj0PprWXwAYrtfM?format=jpg&name=medium)
