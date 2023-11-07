@@ -49,6 +49,7 @@ Listed as Gisele's_Nectar1
   * [Sharly AI](https://app.sharly.ai/)
   * [PPT Generator by Gamma AI](https://gamma.app/)
   * [Web Builder by Durable](https://durable.co/)
+  * [Journal Sumarize](https://www.producthunt.com/posts/summaverse)
 
  * [Jasa Pembuatan Literature Review](https://fastwork.id/user/gumilangna/typing-99196731)
 
