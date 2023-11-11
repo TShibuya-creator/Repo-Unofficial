@@ -16,6 +16,9 @@ Listed as Gisele's_Nectar1
   * [Google Scholar](https://scholar.google.com/)
 
  * Journal Translator
+   * [Langganan Berbayar Jurnal Amikom](https://login.amikom.idm.oclc.org/login)
+
+ * Journal Translator
    * [DeepL](https://www.deepl.com/en/translator)
 
  * Research/Journal Relation
