@@ -76,6 +76,18 @@ Listed as Gisele's_Nectar1
 
 
 ---
+## Material
+* [Transfer Learning of CNN](https://nirbarazida.medium.com/transfer-learning-of-cnn-model-using-google-colab-part-i-62223fbc8bb8)
+* [Tutorial Transfer Learning](https://towardsdatascience.com/beginners-guide-to-transfer-learning-on-google-colab-92bb97122801)
+
+
+---
+## Google Colab Code
+* [Transfer Learning by Kylemath](https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb)
+* [Tranfer Learning by pytorch](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/62840b1eece760d5e42593187847261f/transfer_learning_tutorial.ipynb)
+
+
+---
 ## Program Code
 * By Lecturer
   * Andi Sunyoto, M.Kom., Dr.
