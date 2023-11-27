@@ -79,12 +79,14 @@ Listed as Gisele's_Nectar1
 ## Material
 * [Transfer Learning of CNN](https://nirbarazida.medium.com/transfer-learning-of-cnn-model-using-google-colab-part-i-62223fbc8bb8)
 * [Tutorial Transfer Learning](https://towardsdatascience.com/beginners-guide-to-transfer-learning-on-google-colab-92bb97122801)
+* [Guide to Haar Cascade Algorithm with Object Detection Sample [SIGN IN REQUIRED]](https://www.analyticsvidhya.com/blog/2022/04/object-detection-using-haar-cascade-opencv/)
 
 
 ---
 ## Google Colab Code
 * [Transfer Learning by Kylemath](https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb)
 * [Tranfer Learning by pytorch](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/62840b1eece760d5e42593187847261f/transfer_learning_tutorial.ipynb)
+* [object-detection](https://drive.google.com/file/d/1GRRaHladw5kR-UL7yL9qJZo4zBOiTx5l/view?usp=sharing)
 
 
 ---
@@ -105,6 +107,17 @@ Listed as Gisele's_Nectar1
 
 * Youtube Scraping
   * [Youtube Scraper](https://fariqi.my.id/blog/2023/10/22/tutorial-youtube-api-v3-menggunakan-python-dan-google-colab/)
+
+* Kaggle
+  * [Object Detection PASCAL VOC 2012](https://www.kaggle.com/code/abdelrahmansalem9/object-detection)
+  * [Haar cascade classifier-Car Detection](https://www.kaggle.com/code/hamedetezadi/haar-cascade-classifier-car-detection)
+  * [Yolo V5 Car Object Detection](https://www.kaggle.com/code/balraj98/yolo-v5-car-object-detection)
+  * [Yolo v3 Object Detection in Tensorflow](https://www.kaggle.com/code/aruchomu/yolo-v3-object-detection-in-tensorflow)
+  * [CarAndBusDetection](https://www.kaggle.com/datasets/hamedetezadi/carandbusdetection/code)
+
+* Github
+  * [haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+ 
  
 
 
