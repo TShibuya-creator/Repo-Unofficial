@@ -86,7 +86,7 @@ Listed as Gisele's_Nectar1
 ## Google Colab Code
 * [Transfer Learning by Kylemath](https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb)
 * [Tranfer Learning by pytorch](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/62840b1eece760d5e42593187847261f/transfer_learning_tutorial.ipynb)
-* [object-detection](https://drive.google.com/file/d/1GRRaHladw5kR-UL7yL9qJZo4zBOiTx5l/view?usp=sharing)
+* [Object Detection](https://drive.google.com/file/d/1GRRaHladw5kR-UL7yL9qJZo4zBOiTx5l/view?usp=sharing)
 
 
 ---
