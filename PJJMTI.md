@@ -23,7 +23,9 @@ Listed as Gisele's_Nectar1
 
  * Research/Journal Relation
    * [Connected Paper](https://www.connectedpapers.com/)
- 
+   * [Research Rabbit](https://researchrabbitapp.com)
+   * [Open Knowledge Maps](https://openknowledgemaps.org)
+
  * Journal Piracy
    * [Sci-Hub](https://sci-hub.se/)
    * [PDF Drive](https://www.pdfdrive.com/)
