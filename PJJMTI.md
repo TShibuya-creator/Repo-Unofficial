@@ -36,6 +36,11 @@ Listed as Gisele's_Nectar1
   * [Draw.io](https://app.diagrams.net/)
   * [DB Diagram](https://dbdiagram.io/)
  
+* Website Mockup
+  * [Vite.App](http://vite.app/)
+  * [Open React Template](https://github.com/cruip/open-react-template)
+  * [Fast API](https://fastapi.tiangolo.com/)
+ 
 * Public Dataset
   * [Kaggle](https://www.kaggle.com/)
   * [IEEE Dataport](https://ieee-dataport.org/)
