@@ -74,7 +74,9 @@ Listed as Gisele's_Nectar1
   * [Windows](https://harzing.com/download/PoP8Setup.exe)
   * [Linux Tutorial](https://harzing.com/resources/publish-or-perish/linux)
   * [Mac OS](https://harzing.com/download/PoP8Mac.pkg)
- 
+
+* Model Training Computer Vision
+  * [Roboflow](https://roboflow.com/)
 ---
 
 
